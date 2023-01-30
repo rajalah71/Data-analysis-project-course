@@ -18,6 +18,14 @@ Tässä työssä pyritään ennustamaan asuntojen hintoja seuraavien taustamuutt
 
 Tässä työssä ennustaminen on tehty pääasiassa CatBoost pakettia käyttäen.
 
+### House_pricing
+
+Tässä esikäsitellään data ja rakennetaan kaksi mallia asuntojen hintojen ennustamiseen.
+
+### Stacked model
+
+Tässä yhdistetään omat ja toisen kurssilaisen mallit yhdeksi pinotuksi malliksi ja tarkastellaan sen toimivuutta.
+
 TODO:
 
 Datan preprosessointi. Tehty
