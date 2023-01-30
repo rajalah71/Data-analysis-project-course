@@ -16,7 +16,7 @@ Tässä työssä pyritään ennustamaan asuntojen hintoja seuraavien taustamuutt
 - Tontti
 - Energialuokka
 
-Tässä työssä ennustaminen on tehty CatBoost pakettia käyttäen.
+Tässä työssä ennustaminen on tehty pääasiassa CatBoost pakettia käyttäen.
 
 TODO:
 
@@ -30,4 +30,4 @@ Parametrien tuunaus. Tehty
 
 Ensemble malli. Tehty
 
-Kaiken koodin siivous
+Kaiken koodin siivous. Tehty
