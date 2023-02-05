@@ -16,7 +16,7 @@ Tässä työssä pyritään ennustamaan asuntojen hintoja seuraavien taustamuutt
 - Tontti
 - Energialuokka
 
-Tässä työssä ennustaminen on tehty pääasiassa CatBoost pakettia käyttäen.
+Tässä työssä ennustaminen on tehty pääasiassa gradient boostingia käyttäen.
 
 ### House_pricing
 
